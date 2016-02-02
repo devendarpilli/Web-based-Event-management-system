@@ -1,0 +1,8 @@
+1. Install Eclipse WTP (Web Tools Project).
+2. Install Apache Tomcat Server in it.
+3. Create new Dynamic Web Project in Eclipse.
+4. Import the folder given named ‘Eventz’
+5. Run on Server.
+6. After the server started, you can run it on apache server or else in any browser using local host and port number (in this project we have given 8007).
+Ex: localhost:8007/Eventz/
+
